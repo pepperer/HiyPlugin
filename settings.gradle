@@ -1,0 +1,3 @@
+rootProject.name='HiyPlugin'
+include ':app'
+include ':h-plugin'
