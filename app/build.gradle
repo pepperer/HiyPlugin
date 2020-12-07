@@ -1,11 +1,13 @@
 apply plugin: 'com.android.application'
-apply plugin: 'com.hiy.plugin.greeting'
+apply plugin: 'com.hiy.plugin.lsd'
 //plugins {
 //    // Apply the Java Gradle plugin development plugin to add support for developing Gradle plugins
 //    id 'com.android.application'
 //    // Apply the Groovy plugin to add support for Groovy
 //    id 'com.hiy.plugin.greeting'
 //}
+
+
 
 android {
     compileSdkVersion 29

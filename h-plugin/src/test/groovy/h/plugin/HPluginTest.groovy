@@ -10,7 +10,7 @@ import spock.lang.Specification
 /**
  * A simple unit test for the 'h.plugin.greeting' plugin.
  */
-public class HPluginPluginTest extends Specification {
+public class HPluginTest extends Specification {
     def "plugin registers task"() {
         given:
         def project = ProjectBuilder.builder().build()

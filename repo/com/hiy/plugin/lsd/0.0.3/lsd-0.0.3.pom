@@ -3,6 +3,6 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.hiy.plugin</groupId>
-  <artifactId>greeting</artifactId>
-  <version>0.0.1</version>
+  <artifactId>lsd</artifactId>
+  <version>0.0.3</version>
 </project>
